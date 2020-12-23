@@ -29,7 +29,6 @@ numpy==1.15.4
 
 
 Project 3 - Git Hub Documentation 
-
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
 
 
