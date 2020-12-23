@@ -1,5 +1,3 @@
-
-
 Created By - Juhi Singh Date Created - 12/22/2020
 
 Project 1 - SQL Coding for Sakilla DVD
